@@ -1,0 +1,11 @@
+{
+  "name": "lib-config",
+  "version": "0.0.0",
+  "description": "Layered config file loader with interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT"
+}
