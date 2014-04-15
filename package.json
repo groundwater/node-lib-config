@@ -4,8 +4,13 @@
   "description": "Layered config file loader with interpolation",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "tap test"
   },
   "author": "Jacob Groundwater <groundwater@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemock": "^0.3.3",
+    "jshint": "^2.5.0",
+    "tap": "^0.4.8"
+  }
 }
